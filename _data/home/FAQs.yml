@@ -1,5 +1,28 @@
 FAQ:
-  - question: Are there any prerequisites for the course?
-    answer: None!
+  - question: What technical writing tools should I learn?
+    answer:   In general, learn markup and style languages more than a specific tool, since languages have a more widespread application than specific tools. The most useful markup and style languages are HTML, XML, and CSS. You can find resources to learn these languages online.
+
+             For specific tools, look at http://indeed.com for technical writer jobs in your area. 
+             After analyzing the job postings, try to identify a common trend in the tools required.
+              Learn those tools. You can also review commonly used tools from previous WritersUA tool surveys.
+
+          In general, learn these four types of tools:
+
+            Help authoring tools (such as Jekyll, MadCap Flare, Confluence, Robohelp, Doc-to-Help, or some other)
+            Graphics tools (Snagit, Capture, Photoshop, Illustrator)
+            Video recording tools (Camtasia Studio, Screenflow, Captivate)
+            Page layout tool (InDesign, Word, Framemaker)
+
+
+ -  question: I’m interested in technical writing, but isn’t it boring?
+     answer: No, technical writing isn’t boring. It actually taps into quite a few creative skills, 
+     but that creativity isn’t creativity so much in writing. It’s more like creativity in problem solving, 
+     layout and design, finding ways to illustrate concepts, 
+     and in thinking through ways that people might use the product.
+
+      In addition to using these creative skills, you’ll be immersed in an environment full of interaction designers,
+       engineers, quality assurance testers, project managers, analysts, corporate communications teams, and more.
+        In short, IT departments can be energetic, cool places to work.
+
   - question: Which year students can register for the course?
     answer: Any! The course is open to all enthusiasts.
