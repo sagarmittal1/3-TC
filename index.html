@@ -3,8 +3,8 @@ layout: home
 ---
 <body>
     <div class='content' style="text-align: justify;">
-        The <em>Awesome</em> course
-        <h1 id="main-title" style="font-weight: 800; font-size: 3em;">{{site.title}}</h1>
+        A 3rd Sem. subject at GIT Jaipur (2020-21)
+        <h1 id="main-title" style="font-weight: 800; font-size: 3em;">Technical Communication</h1>
         <br>
         <h1 id="Course Description">Course Description</h1>
         {% for para in site.data.home.course.content %}
@@ -22,13 +22,13 @@ layout: home
                 <div>
                     <div class="person-thumbnail" style="margin-left:1vw">
                         <div class="person-avatar">
-                            <span class="person-image" style="background: url({{item.img}}); "></span>
+                            <span class="person-image" ><img src="https://iili.io/27ujI9.md.png" border="0"</span>
                         </div>
                     </div>
                     <div class="person-text">
-                        <h2 class="person-name">Instructor<a href="{{item.github}}" target="_blank"> {{item.name}} </a></h2>
+                        <h2 class="person-name">Punit Shukla</h2>
                     <p><span>{{item.email}}</span></p>
-                    <p>Consultation Hours: {{item.consultation}} </p>
+                    <p>Time : 9:00am - 2:00pm, Online</p>
                     </div>
                 </div>
                 <hr style="margin: 3vh 15vw 5vh 0vw; border-style:dashed ;"> 
@@ -40,7 +40,7 @@ layout: home
             {% for item in site.data.home.FAQs.FAQ %}
             <ul class= lists style="font-size:1.2em">
                 <li style="font-weight: 500;"> {{item.question}}</li>
-                <li style="color: rgb(120,120,120); margin-left: 1vw;"> - {{item.answer}}</li>
+                <li style="color: rgb(29, 32, 235); margin-left: 1vw;"> - {{item.answer}}</li>
             </ul> 
             {% endfor %}
 

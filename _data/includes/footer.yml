@@ -11,13 +11,6 @@ footer_content:
     - subtab: "FAQs"
       sub_link: "/#FAQs"   
 
-  - tabname: "Schedule"
-    link: "schedule" 
-    subtopic:
-    - subtab: "Schedule"
-      sub_link: "schedule#Schedule"
-    - subtab: "Class and Time"
-      sub_link: "schedule#Class Time & Location"
 
   - tabname: "Syllabus"
     link: "syllabus"

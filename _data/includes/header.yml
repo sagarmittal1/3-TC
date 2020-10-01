@@ -10,12 +10,6 @@ navbar:
       sub_link: /#FAQs
 
 
-  - tabname: SCHEDULE
-    link: schedule 
-    subtopic:
-     - subtab: Class and Time
-       sub_link: schedule#Class Time & Location  
-
   - tabname: SYLLABUS
     link: syllabus
     subtopic:
