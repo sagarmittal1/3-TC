@@ -1,9 +1,11 @@
 content:
-- p: <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-- p: <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-- p: <p>Quis lectus nulla at volutpat diam ut venenatis tellus in. Neque sodales ut etiam sit amet nisl prus in. 
-    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Lacus laoreet non curabitur gravida. </p> 
-- p: <p>Vitae aliquet nec ullamcorper sit amet. Egestas integer eget aliquet nibh praesent tristique. 
-    Neque ornare aenean euismod elementum nisi quis eleifend. Suspendisse interdum consectetur libero id faucibus nisl.</p>
+- p: <p> This course is designed to help you develop skills that will enable you to produce clear and
+ effective scientific and technical documents. ... While the emphasis will be on writing,
+  oral communication of scientific and technical information will form an important component of the course, as well.</p>
+- p: <p>Technical communication helps to advance our economy by ensuring viable research and development, 
+safeguarding design and manufacturing, 
+and protecting consumers through accurate and informative documents.</p>
+- p: <p> Here you can found all the content regarding syllabus, material and important announcments.  </p>
+- p: <p>  And here, good books have been uploaded and you will also get notes of well experienced faculties which will help you in your exams,
+ here you will get related notes from the exam, so that you will not waste time in finding notes during the exam. </p>
+- p: <p>   </p>
