@@ -1,27 +1,27 @@
 syllabus:
-  - heading: Technology
-    content: " {The Tech you will be using} <br>
-    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  - heading: Unit 1
+    content: " <h3>Introduction to Technical Communication: </h3>
+    Definition of technical communication, Aspects of technical communication, forms of technical
+     communication, importance of technical communication, technical communication skills (Listening, speaking, writing, reading writing),
+      linguistic ability, style in technical communication"
 
-  - heading: Materials  
-    content: " {Recommended Materials} <br>
-      Massa ultricies mi quis hendrerit dolor. At tempor commodo ullamcorper a lacus vestibulum sed.
-      Arcu non sodales neque sodales ut etiam sit amet. Morbi quis commodo odio aenean. 
-      Enim nulla aliquet porttitor lacus luctus accumsan.     <br><br>
-     <h3>Homeworks</h3>
-     There will be regular homeworks after lectures. 
-     <br>    
-     <h3>Slides</h3>
-     We will post slides on the course website after each lecture.
-     <br>"
+  - heading: Unit 2
+    content: " <h3>Comprehension of Technical Materials/Texts and Information Design & development: </h3>
+    Reading of technical texts, Readingand comprehending instructions and technical manuals, Interpreting and summarizing technical texts, 
+    Note-making. Introduction of different kinds of technical documents, Information collection, factors 
+    affecting information and document design, Strategies for organization, Information design and writing 
+    for print and online media."
 
-  - heading: Late Policy  
-    content: "Porttitor leo a diam sollicitudin. Interdum varius sit amet mattis vulputate enim nulla.
-      Mattis vulputate enim nulla aliquet. Odio ut sem nulla pharetra diam sit amet. 
-      Suspendisse interdum consectetur libero id faucibus nisl."
-
-  - heading: Grading Policy 
-    content: " <ul><li>Assignments: 50% </li>
-                <li>Final Exams: 50% (20% + 30%)</li></ul>
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+  - heading: Unit 3
+    content: " <h3>Technical Writing, Grammar and Editing: </h3>
+    Technical writing process, forms of technical discourse, Writing, drafts and revising, Basics of 
+    grammar, common error in writing and speaking, Study of advanced grammar, Editing strategies to 
+    achieve appropriate technical style, Introduction to advanced technical communication. Planning, 
+    drafting and writing Official Notes, Letters, E-mail, Resume, Job Application, Minutes of Meetings."
+  
+  - heading: Unit 4
+    content: " <h3>Advanced Technical Writing: </h3>
+    Technical Reports, types of technical reports, Characteristics and formats and structure of technical 
+    reports. Technical Project Proposals, types of technical proposals, Characteristics and formats and 
+    structure of technical proposals. Technical Articles, types of technical articles, Writing strategies, 
+    structure and formats of technical articles"

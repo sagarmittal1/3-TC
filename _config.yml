@@ -1,12 +1,13 @@
-title: COURSE TITLE # title which appears for the website
-email: #your-email@example.com
+title: TC # title which appears for the website
+email: mittalsagar006@gmail.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
-    A jekyll template for creating course websites.
+    A course website for 3rd sem. TC subject
  
-baseurl: "orca_web_template"   # specify the subpath of your site
-url: "https://atharva-chandak.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
-twitter_username: #
-github_username: #
+baseurl: ""   # specify the subpath of your site
+url: "" # the base hostname & protocol for YOUR site, e.g. http://example.com
+twitter_username: sagar_mittal5
+github_username: sagarmittal1
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-admin
